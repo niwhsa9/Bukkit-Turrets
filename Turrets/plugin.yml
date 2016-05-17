@@ -1,0 +1,7 @@
+name: Turrets
+main: io.github.niwhsa9.Turrets
+version: 1.0
+commands:
+    turret: 
+        descripton: Turrets Plugin
+        usage: /turret create        
